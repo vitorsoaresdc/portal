@@ -360,7 +360,7 @@ body {
 	display:none;
 }
 
-@media only screen and (min-width:906px) (max-width:1057px) {
+@media only screen and (min-width:906px) and (max-width:1057px) {
 
 	.topoint,
 	.topo2int,
